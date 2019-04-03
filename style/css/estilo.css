@@ -1269,6 +1269,12 @@
 				margin-left: 300px;
 				width: 100%;
 			}
+			.wrapper.style3  p {
+				color: #949494;
+				text-align: left;
+				margin-left: 300px;
+				width: 100%;
+			}
 			.wrapper.style9 h1, .wrapper.style9 h2, .wrapper.style9 h3,  .wrapper.style9 li, .wrapper.style9 p {
 				color: #000000;
 				text-align: left;
@@ -1906,6 +1912,13 @@
 			padding: 0;
 			text-align: center;
 		}
+		#footer .copyright {
+			color: #bbb;
+			font-size: 0.9rem;
+			margin: 0 0 2rem 0;
+			padding: 0;
+			text-align: center;
+		}
 		.fa-youtube:before{
 			color: #bbb;
 		}
@@ -2288,6 +2301,9 @@
 		}
 		.about{
 			padding: 50px;
+		}
+		#polfin{
+			color: white;
 		}
 
 
